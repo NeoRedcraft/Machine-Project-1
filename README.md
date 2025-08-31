@@ -8,10 +8,10 @@ The primary aim of this research is to evaluate 3 machine learning models, **Ext
 ## 📊 Dataset:
 - [Synthetic Lung Cancer Paitent Data(Havard Dataverse)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q5LK5A)
 ## 📄 File Description:
-`LUNGPATH DISCOVERY GROUP IEEE PAPER.pdf` -
-`MACHINE PROJECT - LungPath Discovery Group.ipynb` -
-`synthea-lc-dataset-codes.csv` -
-`synthea-pt60k-lc-data-sel-convert.csv` - 
+1. `LUNGPATH DISCOVERY GROUP IEEE PAPER.pdf` -
+2. `MACHINE PROJECT - LungPath Discovery Group.ipynb` -
+3. `synthea-lc-dataset-codes.csv` -
+4. `synthea-pt60k-lc-data-sel-convert.csv` - 
 
 
 
