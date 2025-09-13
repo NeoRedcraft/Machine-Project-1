@@ -1,6 +1,6 @@
 # Contributors:
-* Felipe M. Panugan III
-* Aaron Novesteras @Paradoxidus
+* Felipe M. Panugan III - NeoRedcraft
+* Aaron Novesteras - Paradoxidus
 * Charles Dela Cruz
 * Nicko Baldo
 # Application Machine Learning for Risk Prediction using Synthetic Lung Cancer Patient Data
